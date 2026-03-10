@@ -1,9 +1,7 @@
 ---
-
 # 🐳 Docker One-Page Command Cheat Sheet (Top 40)
-
 ---
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f3d1ae7f-72f6-40a3-8242-bfd9e7e78841" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/f3d1ae7f-72f6-40a3-8242-bfd9e7e78841" />
 
 # 1️⃣ Docker Setup & Info
 
